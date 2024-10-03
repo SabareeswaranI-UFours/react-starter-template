@@ -1,22 +1,27 @@
-# React starter template
-React project starter template with folder structures and basic packages.
+# React starter template 
+[![Techs Used In this](https://skillicons.dev/icons?i=html,css,react,yarn,vite,vscode)]()
 
-## This repo contained:
-* Basic folder structures
-* Minimal packages (such below)
-    * Axios
-    * Formik
-    * Lodash
-    * UUID
-* Es Lint Minimal configuration
-* Vite
-* AbsAbsolute path configuration
-* .env files configuratured
+This repository holds starter template with folder structures and basic packages for __React Projects__.
 
-## Before begin you may need to add below to this project as per your requirement
-* UI Library (any one of "MUI, Bootstrap, Ant etc")
-* State Management
-* E2e Testing Library
-* Routing Library
+## Contents Included:
+* Basic folder structures.
+* Included Minimal packages:
+    * Axios.
+    * Formik.
+    * Lodash.
+    * UUID.
+* Default Configured with
+    * Vite Builder.
+    * Configured to work with `Absolute path`.
+    * Configured Es-Lint Minimal configuration.
+    * Included environment configuration files.
 
-**This is just base level structure that i would follow for any project i would try or implement. but this is also changes based on requirement of project or convince.**
+> [!IMPORTANT]
+> **(Not Included!)** Before begin you may need to add below to this project.
+* UI Library (Any one of `MUI`, `Bootstrap`, `AntDesign` etc..).
+* State Management.
+* E2E Testing Library.
+* Routing Library.
+
+> [!NOTE]
+> **This is a core structure that i will implement in my most of the projects. but this can change based on project requirements.**

@@ -1,4 +1,4 @@
-# React starter template 
+# React starter template (JSX)
 [![Techs Used In this](https://skillicons.dev/icons?i=html,css,react,yarn,vite,vscode)]()
 
 This repository holds starter template with folder structures and basic packages for __React Projects__.

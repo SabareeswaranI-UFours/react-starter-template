@@ -3,7 +3,7 @@
 
 This repository holds starter template with folder structures and basic packages for __React Projects__.
 
-## Contents Included:
+## :open_file_folder: Contents Included:
 * Basic folder structures.
 * Included Minimal packages:
     * Axios.
@@ -17,11 +17,11 @@ This repository holds starter template with folder structures and basic packages
     * Included environment configuration files.
 
 > [!IMPORTANT]
-> **(Not Included!)** Before begin you may need to add below to this project.
+> :no_entry: **(Not Included!)** Before begin you may need to add below to this project.
 * UI Library (Any one of `MUI`, `Bootstrap`, `AntDesign` etc..).
 * State Management.
 * E2E Testing Library.
 * Routing Library.
 
 > [!NOTE]
-> **This is a core structure that i will implement in my most of the projects. but this can change based on project requirements.**
+> :warning: **This is a core structure that i will implement in my most of the projects. but this can change based on project requirements.**
